@@ -6,7 +6,7 @@ public class Main {
         check("sghjbfdgjkhsbnjvndfrokgm", "sdfrg34gf", "sdfrg34gf");
         check("rsfgfdved", "sdfrg3erg4gf", "sdfrg34gf");
         check("hgfdhbrtdh", "sdfrg34gf#", "sdfrg34gf#");
-        check("dfsbrsbg", "sdfrg34gfsfvsdfvasdzvcv", "sdfrg34gfsfvsdfvasdzvcv");
+        check("dfsbrsbg", "sdfrg34gfsfvsdfvasdzvc", "sdfrg34gfsfvsdfvasdzvc");
     }
 
     private static void check(String login, String pass, String confirmPass) {
